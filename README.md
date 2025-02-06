@@ -13,7 +13,7 @@ Para comenzar con el desarrollo, sigue estos pasos:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/reserva-turnos.git
+   git clone https://github.com/Mtofalo22/App-turnos.git
    cd reserva-turnos
    ```
 2. Instala las dependencias:
