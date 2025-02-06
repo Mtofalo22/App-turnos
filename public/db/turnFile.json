@@ -1,0 +1,21 @@
+{
+    "turns": [
+      {
+        "profesionalId": 1,
+        "profesionId": 101,
+        "turnosOcupados": [
+          { "fecha": "2025-02-04", "hora": "10:00" },
+          { "fecha": "2025-02-03", "hora": "14:00" },
+          { "fecha" : "2025-02-06", "hora": "14:00"}
+        ]
+      },
+      {
+        "profesionalId": 2,
+        "profesionId": 103,
+        "turnosOcupados": [
+          { "fecha": "2025-02-03", "hora": "09:30" }
+        ]
+      }
+    ]
+  }
+  

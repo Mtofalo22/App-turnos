@@ -1,0 +1,36 @@
+{
+    "professionals": [
+      {
+        "profesionalId": 1,
+        "nombre": "Juan",
+        "profesiones": [
+          { "id": 101, "nombreProfesion": "Peluquero" },
+          { "id": 102, "nombreProfesion": "Barbero" }
+        ],
+        "horariosTrabajo": [
+          "09:00",
+          "10:00",
+          "11:00",
+          "12:00",
+          "14:00",
+          "15:00"
+        ]
+      },
+      {
+        "profesionalId": 2,
+        "nombre": "Maria",
+        "profesiones": [
+          { "id": 103, "nombreProfesion": "Masajista" },
+          { "id": 104, "nombreProfesion": "Esteticista" }
+        ],
+        "horariosTrabajo": [
+          "09:00",
+          "09:30",
+          "10:00",
+          "11:00",
+          "12:00"
+        ]
+      }
+    ]
+  }
+  
